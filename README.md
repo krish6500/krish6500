@@ -8,7 +8,7 @@ I build practical, database-driven applications and enjoy turning ideas into wor
 <p align="center">
 <a href="mailto:krishmjadhav54@gmail.com">Email</a> •
 <a href="https://github.com/krish6500">GitHub</a> •
-<a href="https://campus-food-court.vercel.app">Featured Project</a>
+<a href="https://github.com/krish6500/super-bazar">Featured Project</a>
 </p>
 
 ---
@@ -49,19 +49,20 @@ I build practical, database-driven applications and enjoy turning ideas into wor
 
 ## 🚀 Featured Project
 
-### 🍽️ Campus Food Court
+### 🛒 Super Bazar
 
-A full-stack campus food-ordering platform designed around practical student workflows.
+A full-stack grocery shopping platform with customer ordering, authentication and admin management.
 
 **Built with:** Next.js • React • TypeScript • Supabase • Tailwind CSS
 
-- Responsive food browsing and ordering experience
-- Supabase-backed order and data persistence
-- TypeScript-first implementation
-- Environment-based configuration
-- Production deployment on Vercel
+- Responsive grocery storefront for desktop and mobile
+- Product search, categories, wishlist and cart
+- Google and email/password authentication
+- UPI QR checkout with merchant approval
+- Customer order history
+- Protected admin workflows for products, stock, banners, payments and order status
 
-[📂 View Repository](https://github.com/krish6500/campus-food-court) • [🌐 Live Demo](https://campus-food-court.vercel.app)
+[📂 View Repository](https://github.com/krish6500/super-bazar)
 
 ---
 
